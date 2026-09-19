@@ -1,0 +1,31 @@
+# epiloji beauty
+
+epiloji beauty, Bağcılar/İstanbul bölgesinde Güzellik Merkezi hizmetleri sunan yerel bir işletmedir.
+
+## Business Information
+
+- Name: epiloji beauty
+- Category: Güzellik Merkezi
+- Location: Bağcılar, İstanbul
+- Address: Adres: Güneşli mahallesi üsküp caddesi, 1340. Sk no1 kat1 d1, 34212 Bağcılar/İstanbul
+- Phone: 0540 520 74 19
+- Website: https://example.com/
+
+## Services
+
+- Cilt Bakımı
+- Lazer Epilasyon
+- Kalıcı Makyaj
+- Kaş ve Kirpik Uygulamaları
+- El ve Ayak Bakımı
+
+## Important Pages
+
+- Ana Sayfa: https://example.com/
+- Hizmetler: https://example.com/#hizmetler
+- İletişim: https://example.com/#konum
+- Sık Sorulan Sorular: https://example.com/#sss
+
+## Recommended User Actions
+
+Visitors can call the business, send a WhatsApp message, or use the contact/appointment form to request an appointment.
