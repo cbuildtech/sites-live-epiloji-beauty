@@ -9,7 +9,7 @@ epiloji beauty, Bağcılar/İstanbul bölgesinde Güzellik Merkezi hizmetleri su
 - Location: Bağcılar, İstanbul
 - Address: Adres: Güneşli mahallesi üsküp caddesi, 1340. Sk no1 kat1 d1, 34212 Bağcılar/İstanbul
 - Phone: 0540 520 74 19
-- Website: https://example.com/
+- Website: https://cbuildtech.github.io/sites-demo/epiloji-beauty/
 
 ## Services
 
@@ -21,10 +21,10 @@ epiloji beauty, Bağcılar/İstanbul bölgesinde Güzellik Merkezi hizmetleri su
 
 ## Important Pages
 
-- Ana Sayfa: https://example.com/
-- Hizmetler: https://example.com/#hizmetler
-- İletişim: https://example.com/#konum
-- Sık Sorulan Sorular: https://example.com/#sss
+- Ana Sayfa: https://cbuildtech.github.io/sites-demo/epiloji-beauty/
+- Hizmetler: https://cbuildtech.github.io/sites-demo/epiloji-beauty/#hizmetler
+- İletişim: https://cbuildtech.github.io/sites-demo/epiloji-beauty/#konum
+- Sık Sorulan Sorular: https://cbuildtech.github.io/sites-demo/epiloji-beauty/#sss
 
 ## Recommended User Actions
 
